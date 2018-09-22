@@ -1,0 +1,180 @@
+#	Park Name	Acreage	 	BBQs	Playground (ages 2-5)	Playground (ages 5-12)	Basketball Court	1/2-Basketball Court	Sand Volleyball Court	Unlighted Tennis Court	Lighted Tennis Court	Unlighted Softball Field	Lighted Softball Field	Soccer Uses allowed by Permit Only	Turf Managemt Priority	Exercise Course	Skate Park	Dog Park (w/in park boundry)	Water Available for Dogs in Dog Park	Childern's Water Play feature	Community Garden (w/in park bouundry)	Bocci Ball Court	Lawn Bowling	Horse Shoe Pit	Handball Court	Swimming Pool	Other	1st Cross Street	2nd Cross Street
+1	Camden Park	6	5	3	1	N	1	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Camden Ave	Hillsdale
+2	DeAnza Park*	9.6	9	3	1	1	3	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Meridian Ave	Helmond Ln
+3	Doerr Park*	11.7	15	5	1	1	1	N	N	1	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Park Wilshire Dr	Potrero Dr
+4	Kirk Park*	4.5	10	6	1	1	2	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	2	N	N	N	Foxworthy Ave	Briarwood Dr
+5	Paul Moore Park*	8.4	6	6	1	2	2	N	N	N	4	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	2 Tether ball poles	Cherry 	Hillsdale
+6	Roy M. Butcher Park*	10	15	11	1	1	2	N	N	N	N	1	N	Y	1.3	N	N	N	N	1	N	N	N	N	N	N	Volleyball Ct-hard top	Camden Ave	Lancaster Dr
+7	Cahalan Park*	9.5	8	8	1	1	1	4	N	2	N	2	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Cahalan Ave	Pearlwood Wy
+8	Lone Hill Park*	7.9	8	4	1	1	2	N	N	N	N	N	N	Y	2.0	N	N	N	N	N	N	N	N	N	N	N	N	Michon Dr	Vintner Wy
+9	TJ Martin Park	23.6	2	N	1	1	N	N	N	N	N	N	N	Y	2.0	N	N	N	N	1	N	N	N	N	N	N	N	Burchell	The Strand
+10	Houge Park*	12.5	18	6	1	1	1	1	N	2	N	N	N	N	20.0	1	N	N	N*	N	N	N	N	1	N	N	N	White Oaks Ave	Twilight Dr
+11	Almaden Meadows Park	15.5	8	N	N	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Meridian Ave	Camden Ave
+12	Carrabelle Park	2.9	11	N	0.5	0.5	N	N	N	N	N	N	N	N	30.0	N	N	N	N	1	N	N	N	N	N	N	N	Camden Ave	Villagewood Wy
+13	Glenview Park	4.2	3	N	1	N	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	McCall Dr	Valley Quail Cir
+14	Jeffrey Fontana Park	10	N	N	1	1	N	N	N	N	N	N	N	N	30.0	1	N	Y (9/05)	Y (9/05)	N	N	N	N	N	N	N	N	McAbee 	Meridian
+15	Terrell Park 	5.4	3	3	1	N	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Normington Way	Kenton Ln
+16	Branham Park	7	12	5	N	1	1	N	1	N	N	N	N	N	40.0	1	N	N	N	N	N	N	N	N	N	N	N	Branham	Tupolo Dr
+17	Leif Erikson Park	1.6	7	3	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	1	N	N	N	N	N	N	N	Pearl Ave	Branham Ln
+18	Richard E. Huerta Park	0.3	N	N	1-shared	1-shared	N	N	N	N	N	N	N	N	40.0	N	N	N	N	1	N	N	N	N	N	N	N	Hillsdale	Ross
+19	Russo Park	0.4	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	y	N	N	N	Russo Ave	Cherry Ave
+20	Scottsdale Park	0.3	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Branham	Casa de Ponselle
+21	Almaden Winery Park	3.2	6	N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Chambertin	Treviso
+22	Greystone Park*	4.7	11	6	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Camden Ave	Mt. Carmel Dr
+23	Parma Park*	4.5	4	N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	2	N	N	N	N	N	N	N	Camden Ave	Bose Ln
+24	Pfeiffer Park	1.2	2	N	1-shared	1-shared	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Pfeiffer Ranch Rd	Boulder Mountain Wy
+25	Thousand Oaks Park	10	2	N	1-shared	1-shared	N	N	N	N	N	N	N	N	40.0	N	N	N	N	1	N	N	N	N	N	N	N	Thousand Oaks	Downswick
+26	Cathedral Oaks Park	16.8	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Falcon Knoll Ct	Falcon Knoll Dr
+27	Foothill Park	6.9	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Cahalan Ave	Foothill Dr
+28	Guadalupe Oak Grove Park*	62.7	2	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Thorntree Dr	Sterling Oaks Dr
+29	Capitol Park*	11.6	18	7	1	1	1	N	N	2	N	1	N	Y	1.3	N	N	N	N	1	N	N	N	N	N	N	N	Peter Pan Way	Bambi Ln
+30	Hillview Park*	10.6	8	6	1	N	N	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Adrian	Ocala
+31	Flickinger Park*	14.4	28	8	1	1	2	N	N	N	N	Little league	N	Y	1.5	N	N	N	N	N	N	N	N	1	N	N	N	Flickinger	Tourney Dr
+32	Berryessa Creek Park	13.5	8	4	N	1	N	N	N	N	N	1	N	Y	2.0	N	N	N	N	N	N	N	N	N	N	N	N	Isadora Dr	Messina Dr
+33	Brooktree Park	7.7	10	8	1	1	N	N	N	N	N	N	N	Y	2.0	N	N	N	N	N	N	N	N	N	N	N	N	Flickinger Rd	Fallingtree Ave
+34	Cataldi Park*	39.3	15	7	3	2	N	1	1	7	N	N	N	Y	2.0	2	N	N	N	1	N	N	N	N	1	N	N	Cataldi Dr	Morrill
+35	Penitencia Creek Park*	38	4	N	1	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Berryessa Rd	Summerdale Dr
+36	Lo Bue Park	6.1	8	4	1	1	N	1	N	N	N	N	N	N	20.0	1	N	N	N	N	N	N	N	N	N	N	N	Muirfield Dr	Sierra Meadow Dr
+37	Plata Arroyo Park	10.6	8	6	1	1	2	N	N	N	N	N	N	N	20.0	1	1	N	N	N	N	N	N	N	N	N	N	King Rd	McKee Rd
+38	Cimarron Park	7.2	11	N	1	1	1	N	N	N	N	N	N	N	25.0	N	N	N	N	1	N	N	N	N	N	N	N	Pride St	Orange St
+39	Noble Park	8.4	5	N	1	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	1	N	N	N	N	N	N	N	Noble	Collette
+40	Northwood Park	3.9	5	3	1	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Lakewood Dr	Autumnvale Dr
+41	Townsend Park	8	10	N	1	1	N	N	N	2	N	N	N	N	30.0	1	N	N	N	1	N	N	N	1	N	N	N	Townsend Ave	Townsend Cir
+42	Children of the Rainbow Park	1.3	6	2	1	1	1	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Madden Ave	Elodie Way
+43	Mt. Pleasant Park	5.4	7	2	1	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Aramis	Park Pleasant
+44	Vinci Park	3	9	7	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Vinci Park Way	Hikido
+45	Mayfair Park	6	5	N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	1	N	N	N	N	Y	N	Kammerer	Sinclair
+46	Our Park	0.5	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Van Winkle	Story Rd
+47	Parque de la Amistad	1	3	2	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Vollmer Wy	McCreery Ave
+48	Sylvia Cassell Park	1.4	3	2	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Leeward Dr	Leeward Ct
+49	Zolezzi Park	2	2	N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	King Rd	Hermocilla Way
+50	Nancy Lane Plaza	0.2	2	N	1	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Florence Ave	Nancy Ln
+51	Calabazas Park*	17.2	18	6	2	1	1	2	1	3	N	1	1	Y; on lighted softball fields	1.0	N	N	N	N	N	N	N	N	2	N	N	N	Rainbow Dr	Blaney Ave
+52	John Mise Park*	11.7	12	2	1	1	2	1	N	N	N	N	1	Y; on lighted softball fields	1.0	N	N	N	N	N	N	N	N	N	N	N	N	Moorpark Ave	Mitty
+53	Columbus Park* (part of Guadalupe Gardens)	9.9	3	1-shared	N	N	N	2	N	N	N	N	2	N	1.0	N	N	N	N	N	N	N	N	N	N	N	Walnut	Taylor	N
+54	Hathaway Park*	7.7	7	4	1	1	2	N	N	N	N	2	N	Y	1.3	3	N	N	N	N	N	N	N	N	N	N	N	Vallejo Dr	McKinnon Dr
+55	Starbird Park*	7	19	11	1	1	2	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	2	N	N	N	Williams Rd	Boynton Ave
+56	Marijane Hamann Park*	10.5	9	4	1	2	N	N	N	3	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Westfield Ave	S. Genevieve Ln
+57	Willow Street-Frank Bramhall Park*	18	22	10	1	1	2	N	N	6	N	2	N	Y	1.3	N	N	N	N	N	N	N	1	N	N	N	Hard Court	Willow Street	Camino Ramon
+58	Frank M. Santana Park*	5.3	6	4	N	1	N	N	N	N	N	1	N	Rarely	1.5	N	N	N	N	N	N	N	N	N	N	N	N	S. Monroe St	Tisch Wy
+59	River Glen Park*	9.2	13	12	1	1	2	N	1	2	N	N	N	Y	1.5	1	N	N	N	N	N	N	N	1	N	N	2 Little League baseball fields	Bird Ave	Pine
+60	Canoas Park	3.8	12	7	1	N	N	N	N	1	N	N	N	N	10.0	N	N	N	N	N	N	N	N	1	N	N	N	Thrush Dr	Wren Dr
+61	Municipal Rose Garden*	10.7	10	1	N	N	N	N	N	N	N	N	N	N	10.0	N	N	N	N	N	N	N	N	N	N	N	N	Dana Ave	Naglee Ave
+62	Rainbow Park*	9.6	32	4	1	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	2	1	N	N	2	N	N	N	Rainbow Ave	Donington Dr
+63	Rubino Park	3.3	5	2	1	1	1	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Desmet Dr	Desmet Ln
+64	Plaza de Cesar Chavez	2.3	N	N	N	N	N	N	N	N	N	N	N	N	20.0	N	N	N	1	N	N	N	N	N	N	Stage	Market	Park	N
+65	San Tomas Park*	4.8	12	6	1	1	2	N	N	N	N	N	N	N	30.0	N	N	N	N	1	N	N	N	N	N	N	N	Fenian Dr	Valerie Dr
+66	Saratoga Creek Park*	10.4	12	4	1	1	N	N	N	N	N	N	N	N	30.0	3	N	1	1	N	N	N	N	N	N	N	N	Doyle Rd	Lassen Ave
+67	Cahill Park	3.7	N	N	1	1	N	1	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	W. San Fernando St	Wilson Ave
+68	Lincoln Glen Park*	0.2	5	N	2	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	2	N	N	N	N	N	N	N	Radio	Curtner
+69	Wilcox Park	2	N	N	N	N	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Wilcox Wy	Winona Dr
+70	Gleason Park	0.2	N	N	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	San Tomas Aquino Pkwy	Gleason Ave
+71	Gullo Park (no park name sign installed)	0.7	2	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Moorpark Ave	Castlewood Dr
+72	Murdock Park*	11.5	2	3	1	2	N	N	N	N	4	N	N	N	40.0	N	N	N	N	N	N	N	N	N	1	N	N	Wunderlich Dr	Castleglen Ave
+73	Buena Vista Park	0.2	2	N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Scott Street	Menker Ave
+74	Fuller Park (opened 5/06/2006)	1.14	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	1	N	1	N	N	2-Checker tables	Fuller	Park
+75	Hester Park	0.4	3	N	1	1	N	N	N	N	N	N	N	Y	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Naglee	Dana Ave
+76	Hummingbird Park	0.4	N	N	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Bird Ave	Fisk Ave
+77	O'Connor Park	1.7	N	N	N	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Race St	Auzerais
+78	Roy Avenue Park	1	1	N	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	1	N	N	N	N	N	N	N	Roy Ave	Spadafore Ave
+179	Wallenberg Park*	9	17	3	1	1	N	N	N	N	4	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Curtner Ave	Westgate Ave
+79	Guadalupe Gardens (excluding Columbus Park)	145	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	Rosegarden & Fruit Orchard	Taylor	Walnut	N
+80	Gregory Plaza Tot Lot	0.2	3	N	1	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Gregory St	Helen St
+81	Theodroe Lenzen Park	0.5		N	2	1	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N		
+82	Guadalupe River Park (Coleman Ave to 880)	120	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	2 Sister City sites & GRP Visitor Center	Coleman to Highway 880		N
+83	Solari Park*	8.3	13	4	1	1	3	N	N	N	3	N	1	Y; on lighted softball fields	1.0	N	N	N	N	N	N	N	N	N	N	N	N	Cas	Los Arboles
+84	Tully Community Ballfields*	10	5	N	N	N	N	N	N	N	N	5	N	N	1.0	N	N	N	N	N	N	N	N	N	N	N	N	Tully Road	Galveston
+85	Boggini Park*	10	20	6	1	1	N	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Remington	Millbrook
+86	Welch Park*	11.1	10	10	1	1	N	N	N	N	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Clarice	Santiago
+87	Windmill Springs Park	8.3	6	N	1	1	N	N	N	N	N	N	N	Y	2.0	N	N	N	N	N	N	N	N	N	N	N	N	Baysmill	Umbarger
+88	Aborn Park	3.1	2	N	N	N	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Pentland	Renfield
+89	Brigadoon Park	5.5	15	7	1	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Brigadoon	Maloney
+90	Evergreen Park*	15	25	8	N	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Yerba Buena	San Felipe
+91	Meadowfair Park*	8.4	12	3	1	1	N	1	N	3	N	N	N	N	20.0	N	N	N	N	N	N	N	N	1	N	N	N	Corda	Barberry
+92	Ramblewood Park*	9.3	17	9	1	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Kinsule	Dundale
+93	Dove Hill Park	3.9	3	3	N	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Ravens	Carick
+94	Fernish Park	6	5	5	0.5	0.5	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Rubion	Fernish Drive
+95	Silver Creek Linear Park* (doesn't have Picnic Meadow)	53.8	4	2	N	N	1	N	N	2	N	N	N	N	30.0	3	N	N	N	N	N	N	N	N	N	N	N	Yerba Buena	Silver Creek
+96	Lone Bluff Park	0.5	4	2	0.5	0.5	1	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Lone Bluff	Pinto
+97	McLaughlin Park	2.1	8	4	1	1	N	1	N	N	N	N	N	N	40.0	N	N	N	N	1	N	N	N	N	N	N	N	McLaughlin	Clemence
+98	Stonegate Park	4	7	4	1	1	N	N	N	N	N	N	N	N	40.0	N	1	N	N	N	N	N	N	N	N	N	N	Gassman	Tuers Road
+99	Turtle Rock Park	1.1	4	3	N	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Madden Ave	Boa Vista
+100	Brigadoon Tot Lot	0.5	2	N	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Threadneedle	Firth
+101	Canyon Creek Park	1.2 dev./37 total site	4	N	N	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Larkspur Canyon	Trinity Hills Ct.
+102	Groesbeck Hill Park	26.6	6	N	1	1	1	N	1	3	N	1	N	N	40.0	1	N	N	N	N	N	N	N	N	N	N	N	Klein	Norwood
+103	Silver Creek Linear Park/Picnic Meadow* 	3	3	2	1	1	N	N	N	N	N	N	N	N	40.0	2	N	N	N	N	N	N	N	N	N	N	N	Yerba Buena	Silver Creek
+104	Falls Creek Park			N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N		Falls Creek Dr	Batten Way
+105	Fowler Creek Park			Y	1	1	N	N	N	N	Y	N	N	N	40.0	N	N	N	N	Y	N	Y	N	N	N	N		Fowler Rd	Alta Way
+106	Barberry Lane Walkway	0.5	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Barberry	King
+107	La Raggione Tot Lot	NA	N	N	0.5	0.5	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	1	N	N	N	N	N	N	La Ragione	Tully Road
+174	Umbarger Walkway	0.5	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Umbarger	McLaughlin
+175	Montgomery Hill Park	59.6	2	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Yerba Buena	Murillo
+108	Scenic Meadows Park	1	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Yerba Buena	Silver Creek
+109	Rock Springs Playground	1.7	7	2	N	1	1	1	1	N	N	N	N	N		N	N	N	N	N	N	N	N	N	N	N	N	Needles Drive	Senter Road
+110	Backesto Park*	10.5	9	9	1	1	2	N	N	8	N	N	1	Y; on lighted softball fields	1.0	N	N	N	N	N	N	3	N	N	2	N	N	13th Street	Empire
+111	Roosevelt Park	11	18	3	1	1	1	N	N	N	N	N	1	Y; on lighted softball fields	1.0	N	1	N	N	N	N	N	N	N	2	N	20 Benches	E. Santa Clara St.	21st Street
+112	Selma Olinder Park (north of community center; no park sign)	5	1	1	N	N	N	N	N	N	N	N	N	N	1.5	N	N	N	N	N	N	N	N	N	N	N	N	18th Street	William St.
+113	Raymond Bernal Jr. Memorial Park*	5.8	20	4	1	1	N	N	N	N	N	1	N	N	3.0	N	N	N	N	N	N	N	N	N	N	N	N	7th Street	Hedding
+114	Biebrach Park*	5	12	3	1	1	1	1	N	N	N	N	N	N	10.0	N	N	N	N	N	N	N	N	N	1	1	N	Delmas	W. Virginia
+115	Watson Park* - Closed to the public	26.6	10	1	1	1	2	N	N	N	N	N	N	Y	10.0	N	N	1	1	N	Y; Closed to public	N	N	N	N	N	3 Soccer Fields	Jackson	22nd Street
+116	John P. McEnery Park*	1.3	8	N	1	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	2	N	N	N	N	N	N	N	San Fernando	Almaden Boulevard
+117	Pellier Park - Closed to the public	0.2	N	N	N	N	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Julian	St. james
+118	Ryland Park*	3.2	11	3	1	1	1	1	N	N	N	N	N	N	20.0	1	N	N	N	N	N	N	N	N	N	1	N	N. 1st Street	San Pedro Street
+119	Selma Olinder Park* (south of Selma Olinder Elem. School)	13	14	5	N	N	N	N	N	2	N	1	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Woodborough Pl	Woodborough Ct
+120	St. James Park	6.8	7	N	1	1	N	N	N	N	N	N	N	N	20.0	1	N	N	N	N	N	N	N	N	N	N	8 Benches	2nd Street	St. James
+121	Emma Prusch Farm Park*	43.5	7	Y (7/06)	1	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	2	N	N	N	N	N	Barn, Plant Science Center	King Rd	Story Rd	N
+122	Martin Park (no park name sign installed)	9.3	5	N	1	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	1	N	N	N	N	N	N	N	Melbourne	Jeanne
+123	William Street Park	14.9	24	N	N	N	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	16th 	E. William
+124	Bestor Art Park	0.7	2	N	N	1	N	1	N	N	N	N	N	N	40.0	N	N	N	N	1	1	N	N	N	N	N	3 Game Tables	Bestor	6th
+125	Brenda Lopez Plaza	0.2	3	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	15 Benches	Oak Street	1st Street
+126	Forestdale Tot Lot	0.4	2	2	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Forestdale	at Highway 280
+127	Hacienda Park	0.3	2	N	N	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Julian	West Court
+128	Parque de los Pobladores	0.2	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	12 Benches	1st	Market Street
+129	Parque de Padre Mateo Sheedy	NA	3	2	1; no swings	1; no swings	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Floyd	Locust
+173	Rosemary Garden Park	1.3	5	2	1	N	N	N	N	N	N	N	N	N	40.0	1	N	N	N	1	N	1	N	N	N	N	N	Sonora Avenue	Santa Paula
+178	Bonita Park			N	1	N	N	1	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N		Bonita Ave	Sunny Ct.
+130	Watson Dog Park														40.0														
+131	Bellevue Park	0.26	Y	Y	1	N	N	2	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	Decorative Fountain	Bellevue	Pomona
+132	Overfelt Gardens Park*	32.6	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	Chinese Cultural Garden, Amphitheater	Educational Park Dr	McKee Rd	N
+133	O'Donnell Garden Park	0.5		N	0.5	0.5	N	N	N	N	N	N	N	N	40.0	N	N	N	N	Y	N	N	N	N	N	N		Williams St	S. 6th
+134	George W. Page Park	4	4	3	1	1	N	N	N	1	N	1	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Santa Teresa	Miyuki Drive
+135	Great Oaks Park*	12.3	8	6	1	1	2	N	N	N	N	1	N	Y	1.3	N	1	N	N	N	N	N	N	N	N	N	N	Snow Drive	Battle Dance Drive
+136	Vista Park	9.9	4	N	1	1	1	N	N	N	N	2	N	Y	1.3	N	N	N	N	N	N	N	N	N	N	N	N	Hyde Park Drive	New Compton Drive
+137	La Colina Park* 	25.5	9	6	1	1	N	N	N	N	N	N	N	Y	1.5	N	N	N	N	1	1	N	N	N	N	N	N	Lean	Allegan Circle
+138	Basking Ridge Park	8	5	2	1	1	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Chelsea Crossing	near Esplanade Ln
+139	Palmia Park	4.1	13	5	1	1	N	2	N	1	N	N	N	N	20.0	N	N	N	N	N	N	N	N	N	N	N	N	Primrose Drive	Palmia Drive
+140	Coy Park	4.5	5	N	1	1	N	N	N	N	N	N	N	N	25.0	N	N	N	N	N	N	N	N	N	N	N	N	Coy Drive	Judith
+141	Calero Park	4.6	3	N	0.5	0.5	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Lean	Calero
+142	Chynoweth Neighborhood Park	2.4	5	1	0.5	0.5	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Chynoweth Avenue	Chynoweth Park Court
+143	Comanche Park	3	N	N	0.5	0.5	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Calero	Comanche Drive
+144	Los Paseos Park*	10.8	12	N	0.5	0.5	N	N	N	N	4	N	N	N	30.0	1	N	N	N	N	N	N	N	N	N	N	N	Via Vista	Avenida Grande
+145	Metcalf Park*	6.2	16	9	N	1	2	N	1	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Forsum Road	Forsom Court
+146	Miner Park	5.2	N	N	0.5	0.5	N	N	N	N	N	N	N	N	30.0	1	N	N	N	N	N	N	N	N	N	N	N	Lean	Copoco Lane
+147	Shady Oaks Park	10.3	5	5	1-shared	1-shared	1	N	N	N	N	N	N	N	30.0	1	N	N	N	N	N	N	N	N	N	N	N	Coyote	Broderick
+148	Silver Leaf Park	5.8	8	5	1	1	N	1	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Palmwell Way	Silver Leaf Road
+149	Meadows Park	5.2	7	4	1	1	N	N	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Bluefield Drive	Edelweiss Drive
+150	Playa del Rey Park	3.7	7	3	1	1	N	1	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	N	N	N	N	N	Sunny Oaks Drive	Stardust Lane
+151	Waterford Park	2.8	3	3	1-shared	1-shared	N	N	N	N	N	N	N	N	30.0	1	N	N	N	N	N	N	N	N	N	N	N	Vistapark Drive	Sandpebble Drive
+152	Avenida Espana Park	1	N	N	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Downs Drive	North Creek Drive
+153	Danna Rock Park	11	6	3	0.5	0.5	N	1	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Valleyhaven Way	Houndshaven Way
+154	Melody Park	4	9	4	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Nokomis Drive	LaTorre Avenue
+177	Edenvale Garden Park* 	19.5	24	10	1	1	N	1	1	3	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Edenvale Ave	Saddlebrook Dr
+155	Vieira Park			N	1	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N			
+156	William H. Cilker Park	1.8	N	N	N	N	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	Park is adjacent to Guadalupe River Trail	Chynoweth Avenue	Winfield Blvd.
+157	Parkview I (no park name sign installed)	2.6	N	N	1	1	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Viewpark Circle	near Bluefield
+158	Parkview II (no park name sign installed)	2.6	N	N	N	1	N	N	N	N	N	N	N	N	40.0	1	N	N	N	N	N	N	N	N	N	N	N	Grandpark Circle	Sposito Circle
+159	Parkview III	5.4	4	N	1-shared	1-shared	N	N	N	N	N	N	N	N	40.0	N	N	N	N	N	N	N	N	N	N	N	N	Monet Circle	Monet Drive
+160	Albertson Parkway	2.7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	N	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+161	Century Oaks Park (undeveloped)	NA	N	N	N	N	N	N	N	N	N	N	N	N	NA	N	N	N	N	N	N	N	N	N	N	N	N	Galen to Oberlin	
+162	Miyuki Dog Park		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	N	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+163	Chris Hotts Park	0.5	5	3	0.5	0.5	N	N	N	N	N	N	N	N	NA	#VALUE!	N	N	N	N	N	N	N	N	N	N	Port-a-pottie on site	Almaden Expressway	Via Monte
+164	Alviso Park	22.3	7	3	1	1	N	N	N	N	N	N	N	N	10.0	N	N	N	N	N	1	N	N	N	N	1	N	Wilson Way	N. First Street
+165	Moitozo Park	5	6	N	N	N	N	N	N	N	N	N	N	N	20.0	1	N	N	N	N	N	N	N	N	N	N	N	N. First Street	Descanso
+166	Kelley Park*	172	48	N	N	N	N	N	N	N	N	N	N	N	20.0	N	N	N	N	N	N	N	2	N	N	N	Senter Rd	Keyes 	N
+170	Guadalupe River Park (Coleman to 280 includes Discovery Meadow & Arena Green)	25.1	N	1	1	N	N	N	N	4	N	N	N	N	20.0	N	N	N	1	N	N	N	N	N	N	Carousel, Monopoly in the Park, Visitor Center, 5 Sister City Sites	Coleman	Highway 280	N
+171	Japanese Friendship Gardens														20.0														
+172	Lake Cunningham Park*	203	30+	1	1	N	N	2	N	N	N	N	N	1	20.0	N	N	N	N	1	N	N	4	N	N	1 Marina; Raging Waters	Tully Road	White Road	N
+176	Almaden Lake Park*	67.9	25	1	1	N	1	1	N	N	N	N	N	N	20.0	N	N	N	1	N	4	N	3	N	N	Concession stand, swim beach, boat rentals	Almaden Expressway	Coleman Ave	N
+167	History Park														30.0														
+168	Alum Rock Park* 	32	84	1	1	N	N	1	N	N	N	N	N	N	30.0	N	N	N	N	N	N	N	6	N	N	N	Penitencia Creek Road	Dorel Dr	N
+169	Happy Hollow Park & Zoo														40.0														
